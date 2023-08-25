@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 42px;
+    margin-top: 20px;
+    margin-right: 150px;
+    color: white;
+}
+
+/* .container {
+    height: 600px;
+    width: 100%;
+    border: 3px solid red;
+    display: flex;
+} */
+
+#myform {
+    margin-top: 25px;
+    margin-left: 235px;
+}
+
+input {
+    width: 12vw;
+    height: 12vh;
+    border-radius: 10px;
+    margin: 2px;
+    background-color: #0a7381;
+    color: white;
+    font-size: 40px;
+
+}
+
+input:hover {
+    background-color: #FCD5F0;
+}
